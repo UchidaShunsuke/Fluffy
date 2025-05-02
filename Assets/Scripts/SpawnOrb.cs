@@ -51,9 +51,4 @@ public class SpawnOrb : MonoBehaviour
             isAlive = false;
         }
     }
-
-    void Update()
-    {
-        
-    }
 }
